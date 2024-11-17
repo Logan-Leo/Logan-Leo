@@ -15,8 +15,8 @@
 <br>
 
 - A passionate beginner-intermediate coder
-- Currently learning Java
-- Currently learning Python for use with AI
+- Currently learning C++
+- Previously took multiple classes in Java and Python
 
 <br><br>
 

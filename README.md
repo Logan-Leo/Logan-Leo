@@ -14,9 +14,12 @@
 
 <br>
 
-- A passionate beginner-intermediate coder
-- Currently learning C++
-- Previously took multiple classes in Java and Python
+- EECS Student at UC Berkeley
+- CS 61A (The Structure and Interpretation of Computer Programs)
+- Currently taking 61B (Datastructures) and 61C (Great Ideas of Computer Architecture (Machine Structures))
+
+- Previous CC courses: Java x2, Python, C/C++
+- EE Classes at UCSD: Analog Circuits, Digital Logic Circuits, Digital Circuit Design
 
 <br><br>
 
@@ -29,7 +32,7 @@
 
 - **Languages**:
     
-  Java • Python • C++ • Verilog
+  Java • Python • C/C++ • Verilog
     <!-- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) -->
     <!-- ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
 

@@ -16,7 +16,11 @@
 
 - EECS Student at UC Berkeley
 - CS 61A (The Structure and Interpretation of Computer Programs)
-- Currently taking 61B (Datastructures) and 61C (Great Ideas of Computer Architecture (Machine Structures))
+- CS 61B (Datastructures)
+- CS 61C (Great Ideas of Computer Architecture (Machine Structures))
+
+- Currently taking EECS 151/251A (Digital Design and Integrated Circuits) + FPGA and CS 152/252A (Computer Architecture)
+- Project lead for APE (Advanced PCB Engineering) Project, where we're building an FPGA-based PCIe Graphics Card
 
 - Previous CC courses: Java x2, Python, C/C++
 - EE Classes at UCSD: Analog Circuits, Digital Logic Circuits, Digital Circuit Design
@@ -42,6 +46,3 @@
 <br>
 
 -----
-
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
